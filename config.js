@@ -1,5 +1,5 @@
 export const config = {
-  timeout: 8000,
+  timeout: 10000,
   retries: 5,
   mode: "development",
 };
