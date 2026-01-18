@@ -1,5 +1,5 @@
 export const rebaseConfig = {
-  timeout: 15000,
-  retries: 3,
+  timeout: 30000,
+  retries: 30,
   mode: "main production",
 };
